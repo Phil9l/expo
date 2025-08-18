@@ -8,7 +8,11 @@
 
 ### 🐛 Bug fixes
 
+- Correctly export enum values.
+
 ### 💡 Others
+
+- Repurpose audio recording tests.
 
 ## 1.0.3 — 2025-08-18
 
